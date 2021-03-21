@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_login">Ваш логин</string>
+    <string name="hint_password">Ваш пароль</string>
+    <string name="btn_enter">Войти</string>
+    <string name="wrong_entered_data">Вы неверно ввели логин или пароль!</string>
+    <string name="btn_ok">OK</string>
+    <string name="title_country">Страна :</string>
+    <string name="title_name">Имя :</string>
+    <string name="btn_return">Вернуться</string>
+</resources>
